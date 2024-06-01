@@ -22,7 +22,7 @@
 		"uniques": [
 			"[-95]% unhappiness from the number of cities",
 			"[-20]% construction time for [All] improvements","No movement cost to pillage <for [All] units>",
-			"[+500]% Strength <for [All] units> ",
+			"[+800]% Strength <for [All] units> ",
 			"[+10 Gold, +20 Production] from [Mountain] tiles [in all cities]",
 			"[+150]% City Strength from defensive buildings",		
 			"[+6] Sight <for [All] units>",
@@ -117,6 +117,8 @@
 			"[All] units gain the [Bushido] promotion",
 			"[All] units gain the [FireGod] promotion",
 			"[All] units gain the [LifeGod] promotion",
+			"[All] units gain the [Eat the Living] promotion",
+			"[All] units gain the [Hard to Kill Twice] promotion",
 			"[-33]% maintenance costs <for [All] units>",
 			"[+33]% growth [in all cities]",
 			"Starts with [3] free techs"],
