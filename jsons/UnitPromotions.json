@@ -1,5 +1,15 @@
 [
-  	{
+  //others
+	{
+		"name": "Eat the Living",
+		"uniques": ["Heals [25] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "Earn [10]% of the damage done to [All] units as [Gold]"]
+	},
+	{
+		"name": "Hard to Kill Twice",
+		"uniques": ["[+15]% Strength <when defending>"]
+	},
+//ability
+	{
 		"name": "Ninja",
 		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","All tiles cost [1] movement"]
 	},
