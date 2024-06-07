@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "Bersker",
-		"uniques":["Ignores terrain cost","[1] additional attacks per turn"],
+		"uniques":["Ignores terrain cost","[3] additional attacks per turn"],
 	}
 	
 	
