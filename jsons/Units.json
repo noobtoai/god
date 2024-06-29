@@ -1,7 +1,7 @@
 [
   {
 		"name": "Lighting",
-		"unitType": "lighting",
+		"unitType": "Missile",
 		"movement": 20,
 		"uniques": ["Never appears as a Barbarian unit"],
 		"uniqueTo": "god",
