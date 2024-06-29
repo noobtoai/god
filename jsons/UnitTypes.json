@@ -1,0 +1,7 @@
+[
+  {
+        "name": "lighting",
+        "movementType": "Air",
+        "uniques": ["Cannot be intercepted"]
+    }
+]
