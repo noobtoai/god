@@ -11,7 +11,7 @@
 //ability
 	{
 		"name": "Ninja",
-		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","All tiles cost [1] movement"]
+		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units"]
 	},
 	{
 		"name": "Atomic Revenger",
