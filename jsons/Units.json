@@ -1,11 +1,10 @@
 [
   {
 		"name": "Lighting",
-		"unitType": "Missile",
+		"unitType": "lighting",
 		"movement": 20,
 		"uniques": ["Never appears as a Barbarian unit"],
 		"uniqueTo": "god",
-		"replaces": "Missile",
 		"strength": 150,
 		"rangedStrength": 550,
 		"range": 10,
