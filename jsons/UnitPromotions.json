@@ -37,7 +37,7 @@
 //battle
 	{
 		"name": "Breath",
-		"uniques": ["Can move after attacking","[1] additional attacks per turn", "[+15] HP when healing"]
+		"uniques": ["Can move after attacking","Can move after embark","[1] additional attacks per turn", "[+15] HP when healing"]
 	},
 	{
 		"name": "Bersker",
